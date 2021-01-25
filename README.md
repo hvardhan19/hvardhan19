@@ -12,10 +12,10 @@
 
 ## Find me around the web 🌎: 
 <a href="https://github.com/cmmishra9" style="margin-right:10px;float: left;">
- <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cmmishra9/cmmishra9/master/myAvatar.png">
+ <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/hvardhan19/hvardhan19/master/myAvatar.png">
 </a>
 <p style="float: right;">
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Hars Vardhan Singh</a> 📹 ✍🏾 <br/>
+- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.iqbotics.com/">Harsh Vardhan Singh</a> 📹 ✍🏾 <br/>
 - Tinkering with interactions on <a href="https://codepen.io/cmmishra9"> Codepen</a> 🏓<br/>
 - Sharing updates on <a href="https://www.linkedin.com/in/chandan-mishra-20079ba3">LinkedIn</a> 💼
 </p>
@@ -30,8 +30,8 @@
 </p>
 <hr/>
 <div style="display:flex;flex-direction:column;padding:2px;">
-  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="chandan mishra profile github states" /></p>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmmishra9&show_icons=true&locale=en" alt="cmmishra9" /></p>
+  <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmmishra9&show_icons=true&locale=en&layout=compact" alt="harsh vardhan singh profile github states" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hvardhan19&show_icons=true&locale=en" alt="hvardhan199" /></p>
 </div>
 
 
